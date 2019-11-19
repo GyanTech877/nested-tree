@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.app-container{
+  overflow: scroll;
+  height: 800px;
+  border: 1px solid red;
+}
